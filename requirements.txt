@@ -1,0 +1,4 @@
+discord.py==1.7.3
+praw==7.6.0
+python-dotenv==0.20.0
+rich==12.4.4
