@@ -27,3 +27,5 @@ A Python Script that sends trending news directly to you via Discord Webhook
 1. Deploy the script to run all they time, I recommend using [Heroku](https://www.heroku.com/) or [Replit](https://replit.com/~). Though keep in mind, Replit's are public by default.
 
 
+## Issues
+If you have any issues create a ticket and I will get back to you ASAP
